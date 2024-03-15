@@ -1,2 +1,2 @@
 # ManagingHighPerformance
-Dr. Huynh Ai Van
+Managing High Performance Team - Dr.Huynh Ai Van
